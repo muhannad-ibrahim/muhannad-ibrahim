@@ -1,10 +1,12 @@
 # Hi, let's do it simply 👋
 
-I'm Muhannad, a Software Developer at [PwC](https://pwc.com)
+I am Muhannad, a Full-stack developer at [PwC](https://pwc.com)
 
-I'm passionate about building staff, with a focus on distributed systems, web security, and open source :octocat:. I'm AWS and MongoDB Certified. Graduated from the Faculty of Science at Ain-shams University majoring in Computer Science in June 2020. With 3+ years of experience in full-stack development. Joined the Information technology institute (ITI). 9-Month Diploma, Open source application development track.<br/>
 
-- 🌟 Just live everyday as the last day 🙋 "Steve Jobs"
+I am a Backend/Full-stack Developer with 3+ years of professional experience in full-stack development. <br/>
+I am known for my debugging and problem-solving skills and my ability to make significant performance improvements and build stuff with a focus on distributed systems, web security, and open source :octocat:. I am AWS and MongoDB Certified. I graduated from the Faculty of Science at Ain-shams University majoring in Computer Science in June 2020. I joined the Information Technology Institute (ITI). 9-Month Diploma. <br/>
+
+- 🌟 Just live every day as the last day 🙋 "Steve Jobs"
 - 🤔 Programming isn't about what you know; it's about what you can figure out.
 - 😄 Programmer is a machine that turns coffee into code
 
