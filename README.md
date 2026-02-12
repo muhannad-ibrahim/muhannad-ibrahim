@@ -3,7 +3,7 @@
 I am Muhannad, a Software Engineer at [Code SA](https://code-sa.ai/)
 
 
-I am a Software Developer with 5+ years of professional experience in full-stack development. <br/>
+I am a Software Developer with 5+ years of professional experience in software development. <br/>
 I am known for my debugging and problem-solving skills and my ability to make significant performance improvements and build stuff with a focus on distributed systems, web security, and open source :octocat:. I am AWS and MongoDB Certified. I graduated from the Faculty of Science at Ain-Shams University, majoring in Computer Science, in June 2020. I joined the Information Technology Institute (ITI). 9-Month Diploma. <br/>
 
 - 🌟 Just live every day as the last day 🙋 "Steve Jobs"
