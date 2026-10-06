@@ -1,6 +1,6 @@
 # Hi, let's do it simply 👋
 
-I am Muhannad, a Software Engineer at [Code SA](https://code-sa.ai/)
+I am Muhannad, a Software Engineer at [Code Sa](https://code-sa.ai/)
 
 
 I am a Software Engineer with 6 years of professional experience in software development. <br/>
