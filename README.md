@@ -21,9 +21,7 @@ B.Sc. Computer Science, Ain Shams University · Open Source Diploma, ITI
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=muhannad-ibrahim&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="GitHub stats"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhannad-ibrahim&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" alt="Top languages"/>
-
 <img src="https://streak-stats.demolab.com?user=muhannad-ibrahim&theme=tokyonight&hide_border=true" height="165" alt="GitHub streak"/>
 
 </div>
